@@ -2,7 +2,8 @@ const app = Vue.createApp({
     data() {
         return {
             courseGoal: 'Finish the course',
-            sdccLink: 'https://comic-con.org'
+            sdccLink: 'https://comic-con.org',
+            otherLink: ''
         };
     }
 });
